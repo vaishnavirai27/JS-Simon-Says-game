@@ -62,7 +62,7 @@ function checkAns(idx){
     }
 }
 
-// issues with level up of the game level up confusion
+
  
 function btnPress(){
     
