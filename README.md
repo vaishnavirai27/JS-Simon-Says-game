@@ -25,6 +25,3 @@ The goal is to repeat the button sequence shown by the game. It gets harder as t
 
 ---
 
-## 📸 Preview
-
-![screenshot](./screenshot.png) <!--
